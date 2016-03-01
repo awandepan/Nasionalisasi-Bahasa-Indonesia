@@ -26,12 +26,15 @@ Sebagai markah (*bookmark*) dan jalan pintas (*shortcut*)
 | [DuckDuckgo.com](https://duckduckgo.com) | [100%](https://duck.co/translate) | Mesin pencari yang tidak melacak anda |
 | [elementary-mvp](http://elementary.io/) | [97%](https://www.transifex.com/elementary/elementary-mvp/) | Situs resmi untuk elementary OS |
 | [FeedReader](https://github.com/jangernert/FeedReader) | [100%](https://www.transifex.com/dev-feedreader/feedreader/) | FeedReader adalah aplikasi desktop modern untuk melengkapi akun RSS berbasis-web yang sudah ada. |
+| [F-Droid](https://f-droid.org/) | [52%](https://hosted.weblate.org/projects/f-droid/f-droid/id/) | Repositori Aplikasi Android yang Merdeka dan Sumber Terbuka  |
 | [GPG Keychain](https://gpgtools.org/) | [87%]() | GPG Keychain |
 | [GNU social](http://gnu.io/social/) | [9%](https://www.transifex.com/gnu-social/gnu-social/) | Sosial Medianya GNU |
 | [lollypop](https://www.transifex.com/gnumdk/lollypop/) | [23%](https://www.transifex.com/gnumdk/lollypop/) | Pemutar musik GNOME |
 | [Modem Manager GUI](http://linuxonly.ru/cms/page.php?7) | [84%](https://www.transifex.com/ethereal/modem-manager-gui/) | Modem Manager GUI adalah antarmuka untuk ModemManager 0.7/0.7, Wader dan daemon oFono yang dapat mengelola fungsi spesifik modem |
 | [Octopi](https://octopiproject.wordpress.com/) | [100%](https://www.transifex.com/arnt/octopi/) | Antaramuka Pacman (Package Manager) yang canggih menggunakan pustaka Qt |
 | [PowerTOP](https://github.com/fenrus75/powertop) | [99%](https://www.transifex.com/ceferron/PowerTOP/) | Alat PowerTOP Linux |
+| [SMSSecure](https://smssecure.org/) | [33%](https://www.transifex.com/smssecure/smssecure/) | Butuh privasi? SMSSecure mengenkripsi pesan teks anda lewat udara (OTA) dan diponsel anda. |
+| [spaRSS](https://github.com/Etuldan/spaRSS) | [61%](https://hosted.weblate.org/projects/sparss/strings/id/) | spaRSS ringan, modern, merdeka sepenuhnya (tidak ada iklan) dan proyek sumber terbuka dimana menjaga anda tetap terhubung dengan menarik situs/blog anda dan menampilkannya dalam Perangkat Seluler yang dioptimalkan. |
 | [Whisker Menu](http://gottcode.org/xfce4-whiskermenu-plugin/) | [100%](https://www.transifex.com/gottcode/xfce4-whiskermenu-plugin/) | Alternatif menu XFCE |
 | [Yaourt](https://archlinux.fr/yaourt-en) | [100%](https://www.transifex.com/archlinuxfr/yaourt/) | Antarmuka Pacman dengan fitur lebih banyak dan dukungan AUR |
 | []() | []() |  |
