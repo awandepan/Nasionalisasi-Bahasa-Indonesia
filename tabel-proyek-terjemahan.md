@@ -20,7 +20,7 @@
 | [F-Droid](https://f-droid.org/) | [52%](https://hosted.weblate.org/projects/f-droid/f-droid/id/) | Repositori Aplikasi Android yang Merdeka dan Sumber Terbuka  |
 | [GPG Keychain](https://gpgtools.org/) | [87%]() | GPG Keychain |
 | [GNU social](http://gnu.io/social/) | [9%](https://www.transifex.com/gnu-social/gnu-social/) | Sosial Medianya GNU |
-| [KISS](https://github.com/Neamar/KISS) | [3%](https://hosted.weblate.org/projects/kiss/strings/id/) | KISS adalah launcher super cepat untuk android yang hampir tidak membutuhkan untuk berjalan |
+| [KISS](https://github.com/Neamar/KISS) | [3%](https://hosted.weblate.org/projects/kiss/strings/id/) | KISS adalah launcher super cepat untuk android yang hampir tidak memakan memori untuk berjalan |
 | [lollypop](https://www.transifex.com/gnumdk/lollypop/) | [23%](https://www.transifex.com/gnumdk/lollypop/) | Pemutar musik GNOME |
 | [Modem Manager GUI](http://linuxonly.ru/cms/page.php?7) | [84%](https://www.transifex.com/ethereal/modem-manager-gui/) | Modem Manager GUI adalah antarmuka untuk ModemManager 0.7/0.7, Wader dan daemon oFono yang dapat mengelola fungsi spesifik modem |
 | [Octopi](https://octopiproject.wordpress.com/) | [100%](https://www.transifex.com/arnt/octopi/) | Antaramuka Pacman (Package Manager) yang canggih menggunakan pustaka Qt |
