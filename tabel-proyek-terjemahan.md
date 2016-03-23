@@ -20,7 +20,7 @@
 | [DuckDuckgo.com](https://duckduckgo.com) | [100%](https://duck.co/translate) | Mesin pencari yang tidak melacak anda |
 | [elementary-mvp](http://elementary.io/) | [97%](https://www.transifex.com/elementary/elementary-mvp/) | Situs resmi untuk elementary OS |
 | [FeedReader](https://github.com/jangernert/FeedReader) | [100%](https://www.transifex.com/dev-feedreader/feedreader/) | FeedReader adalah aplikasi desktop modern untuk melengkapi akun RSS berbasis-web yang sudah ada. |
-| [F-Droid](https://f-droid.org/) | [52%](https://hosted.weblate.org/projects/f-droid/f-droid/id/) | Repositori Aplikasi Android yang Merdeka dan Sumber Terbuka  |
+| [F-Droid](https://f-droid.org/) | [76%](https://hosted.weblate.org/projects/f-droid/f-droid/id/) | Repositori Aplikasi Android yang Merdeka dan Sumber Terbuka  |
 | [GNU social](http://gnu.io/social/) | [9%](https://www.transifex.com/gnu-social/gnu-social/) | Sosial Medianya GNU |
 | [GPG Keychain](https://gpgtools.org/) | [87%](https://www.transifex.com/gpgtools/GPGKeychain/) | GPG Tools |
 | [GPGMail](https://gpgtools.org) | [77%](https://www.transifex.com/gpgtools/GPGMail/) | GPG Tools |
