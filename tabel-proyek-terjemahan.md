@@ -17,7 +17,7 @@
 | [DontBubble.Us](http://dontbubble.us/) | [100%](https://duck.co/translate) | Bebaskan diri dari Filter Bubble dalam mesin pencari anda! |
 | [DontTrack.Us](http://donttrack.us/) | [100%](https://duck.co/translate) | Google melacak Anda. Kami tidak. Sebuah panduan disertai ilustrasi |
 | [DoudouLinux](http://www.doudoulinux.org/web/english/index.html) | [40%](https://www.transifex.com/jmphilippe/doudoulinux/) | LiveCD terlokalisasi secara penuh untuk anak mulai dari usia 2 tahun sampai...102 tahun? |
-| [DuckDuckgo.com](https://duckduckgo.com) | [100%](https://duck.co/translate) | Mesin pencari yang tidak melacak anda |
+| [DuckDuckgo.com](https://duckduckgo.com) | [99%](https://duck.co/translate) | Mesin pencari yang tidak melacak anda |
 | [elementary-mvp](http://elementary.io/) | [97%](https://www.transifex.com/elementary/elementary-mvp/) | Situs resmi untuk elementary OS |
 | [FeedReader](https://github.com/jangernert/FeedReader) | [100%](https://www.transifex.com/dev-feedreader/feedreader/) | FeedReader adalah aplikasi desktop modern untuk melengkapi akun RSS berbasis-web yang sudah ada. |
 | [F-Droid](https://f-droid.org/) | [76%](https://hosted.weblate.org/projects/f-droid/f-droid/id/) | Repositori Aplikasi Android yang Merdeka dan Sumber Terbuka  |
