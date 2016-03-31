@@ -1,5 +1,6 @@
 ###Daftar Proyek Terjemahan Bahasa Indonesia
 * * *
+[![](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/Se7enTime/donate)
 ######Perkenalan 
 Berikut adalah [daftar berbagai proyek terjemahan](https://github.com/Se7enTime/Nasionalisasi-Bahasa-Indonesia/blob/master/tabel-proyek-terjemahan.md) yang ~~saya~~ [**Se7enTime**](https://se7entime.wordpress.com/)
 ikut bergabung didalamnya. Angka persen menunjukkan sudah berapa besar terjemahan ke **Bahasa Indonesia** terselesaikan (misal 20% berarti terjemahan baru rampung sebanyak 20%)
