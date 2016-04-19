@@ -40,5 +40,6 @@
 | [SMSSecure](https://smssecure.org/) | [33%](https://www.transifex.com/smssecure/smssecure/) | Butuh privasi? SMSSecure mengenkripsi pesan teks anda lewat udara (OTA) dan diponsel anda. |
 | [spaRSS](https://github.com/Etuldan/spaRSS) | [100%](https://hosted.weblate.org/projects/sparss/strings/id/) | spaRSS ringan, modern, merdeka sepenuhnya (tidak ada iklan) dan proyek sumber terbuka dimana menjaga anda tetap terhubung dengan menarik situs/blog anda dan menampilkannya dalam Perangkat Seluler yang dioptimalkan. |
 | [SpeedCrunch](http://speedcrunch.org/) | [63%](https://www.transifex.com/heldercorreia/speedcrunch/) | Kalkulator ilmiah gratis untuk Windows, OS X, Linux. |
+| [Terminix](https://github.com/gnunn1/terminix) | [9%](https://hosted.weblate.org/projects/terminix/translations/id/) | emulator terminal tiling untuk Linux menggunakan GTK+3 |
 | [Whisker Menu](http://gottcode.org/xfce4-whiskermenu-plugin/) | [100%](https://www.transifex.com/gottcode/xfce4-whiskermenu-plugin/) | Alternatif menu XFCE |
 | [Yaourt](https://archlinux.fr/yaourt-en) | [100%](https://www.transifex.com/archlinuxfr/yaourt/) | Antarmuka Pacman dengan fitur lebih banyak dan dukungan AUR |
